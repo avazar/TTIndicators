@@ -1,4 +1,6 @@
-﻿using ADR.Util;
+// Average Daily Range. Copyright (c) 2022 Avazar
+
+using ADR.Util;
 using System;
 using System.ComponentModel;
 using System.Linq;
